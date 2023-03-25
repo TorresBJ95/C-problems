@@ -1,0 +1,7 @@
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/problem_1.dir
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/problem_2.dir
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/problem_3.dir
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/problem_4.dir
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir

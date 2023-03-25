@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___problems",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-10c4abc4b3d2ae11b175.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem_1-Debug-38ac12a7aa4fb7bad2bb.json",
+					"name" : "problem_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem_2-Debug-094d0a5885252230bb7b.json",
+					"name" : "problem_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem_3-Debug-e1d0a241bb680939dc6c.json",
+					"name" : "problem_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem_4-Debug-f72aa7b654d188db5fe9.json",
+					"name" : "problem_4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bjtor/OneDrive/Desktop/C++ problems/cmake-build-debug",
+		"source" : "C:/Users/bjtor/OneDrive/Desktop/C++ problems"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
